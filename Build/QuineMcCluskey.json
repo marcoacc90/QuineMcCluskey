@@ -1,0 +1,13 @@
+{
+"companyName": "Marco Contreras",
+"productName": "Quine-Mccluskey",
+"dataUrl": "QuineMcCluskey.data.unityweb",
+"asmCodeUrl": "QuineMcCluskey.asm.code.unityweb",
+"asmMemoryUrl": "QuineMcCluskey.asm.memory.unityweb",
+"asmFrameworkUrl": "QuineMcCluskey.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#808080"
+}
